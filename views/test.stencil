@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<header>
+	<meta charset="utf-8" />
+</header>
+
+<body>
+<div>
+	<h2>Cour de récréation</h2>
+
+	<div><b>Pseudo :</b> {{ pseudo }}</div>
+	<div><b>Contenu :</b> {{ msg }}</div>
+</div>
+
+</body>
+</html>
